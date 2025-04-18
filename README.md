@@ -63,3 +63,4 @@ The development of this scraper involved several iterations and adaptations to o
     python3 direct_scraper.py
     ```
 4.  **Output:** The script will print its progress to the console. Final results will be saved in `companies_with_nifs.csv`, and intermediate progress might be saved in `companies_with_nifs_progress.csv`. # nif-scrapper
+# nif-scrapper
